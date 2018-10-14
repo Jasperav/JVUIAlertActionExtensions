@@ -1,0 +1,6 @@
+use_frameworks!
+target 'JVUIAlertActionExtensions_Tests' do
+  pod 'JVUIAlertActionExtensions', :path => '../'
+  
+  
+end
