@@ -1,0 +1,16 @@
+PODS:
+  - JVUIAlertActionExtensions (0.1.0)
+
+DEPENDENCIES:
+  - JVUIAlertActionExtensions (from `../`)
+
+EXTERNAL SOURCES:
+  JVUIAlertActionExtensions:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JVUIAlertActionExtensions: 3a2fcc3f5e1187bc89bdcab444536362dd913714
+
+PODFILE CHECKSUM: 5095f1d5ea96bf224a5d529d6b8c2fc6ececce72
+
+COCOAPODS: 1.6.0.beta.1
