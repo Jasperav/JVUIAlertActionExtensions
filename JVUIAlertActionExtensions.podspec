@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'JVUIAlertActionExtensions'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'Few extensions on a UIAlertAction'
 
   s.homepage         = 'https://github.com/Jasperav/JVUIAlertActionExtensions'
